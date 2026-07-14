@@ -9,12 +9,14 @@
 | [0057-insert-interval](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +26,8 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

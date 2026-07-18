@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -51,4 +52,16 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

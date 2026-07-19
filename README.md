@@ -76,4 +76,12 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0409-longest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

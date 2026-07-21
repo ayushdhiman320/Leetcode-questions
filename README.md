@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0409-longest-palindrome) |

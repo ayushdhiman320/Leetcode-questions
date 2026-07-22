@@ -23,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -92,4 +93,8 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

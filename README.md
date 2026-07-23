@@ -97,4 +97,13 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

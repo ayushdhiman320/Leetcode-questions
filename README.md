@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0739-daily-temperatures) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
@@ -29,6 +31,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sweep Line
 |  |

@@ -20,6 +20,7 @@
 | [0061-rotate-list](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0541-reverse-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
 ## Binary Search
@@ -46,6 +47,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
+| [0541-reverse-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |

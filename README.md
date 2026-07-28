@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0496-next-greater-element-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -63,6 +65,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -71,6 +74,7 @@
 | [0383-ransom-note](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |

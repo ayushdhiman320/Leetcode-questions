@@ -21,6 +21,7 @@
 | [0061-rotate-list](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0409-longest-palindrome) |

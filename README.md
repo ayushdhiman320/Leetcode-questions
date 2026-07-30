@@ -130,4 +130,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->

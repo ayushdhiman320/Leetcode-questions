@@ -113,6 +113,7 @@
 | [0069-sqrtx](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
@@ -125,10 +126,15 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0461-hamming-distance) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

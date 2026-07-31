@@ -114,6 +114,7 @@
 | [0070-climbing-stairs](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |

@@ -117,6 +117,7 @@
 | [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
+| [2469-convert-the-temperature](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2469-convert-the-temperature) |
 | [3945-digit-frequency-score](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |

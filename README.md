@@ -53,6 +53,7 @@
 | [0520-detect-capital](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack

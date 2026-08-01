@@ -78,6 +78,7 @@
 | [0409-longest-palindrome](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [3945-digit-frequency-score](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
+| [3945-digit-frequency-score](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |

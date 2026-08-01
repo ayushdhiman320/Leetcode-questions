@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
+| [3701-compute-alternating-sum](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
+| [3701-compute-alternating-sum](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |

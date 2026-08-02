@@ -80,6 +80,7 @@
 | [0409-longest-palindrome](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1399-count-largest-group](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1399-count-largest-group) |
 | [3945-digit-frequency-score](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
@@ -91,6 +92,7 @@
 | [0383-ransom-note](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1399-count-largest-group](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1399-count-largest-group) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
+| [1399-count-largest-group](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1399-count-largest-group) |
 | [2469-convert-the-temperature](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2652-sum-multiples) |
 | [3945-digit-frequency-score](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3945-digit-frequency-score) |

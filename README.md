@@ -60,6 +60,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2810-faulty-keyboard](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2810-faulty-keyboard) |
+| [3330-find-the-original-typed-string-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3330-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |

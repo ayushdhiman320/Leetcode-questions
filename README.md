@@ -32,6 +32,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0441-arranging-coins](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0441-arranging-coins) |
 | [1399-count-largest-group](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1399-count-largest-group) |
 | [2469-convert-the-temperature](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2652-sum-multiples) |

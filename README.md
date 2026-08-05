@@ -61,6 +61,7 @@
 | [1108-defanging-an-ip-address](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2810-faulty-keyboard](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3330-find-the-original-typed-string-i) |
 ## Stack
@@ -88,6 +89,7 @@
 | [0771-jewels-and-stones](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1399-count-largest-group) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3945-digit-frequency-score](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |

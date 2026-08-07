@@ -15,6 +15,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0986-interval-list-intersections) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3701-compute-alternating-sum](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1399-count-largest-group) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3945-digit-frequency-score](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3945-digit-frequency-score) |
 ## Queue
 |  |
@@ -165,4 +167,5 @@
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->

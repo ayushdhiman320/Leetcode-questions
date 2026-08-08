@@ -66,6 +66,7 @@
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2810-faulty-keyboard](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2810-faulty-keyboard) |
+| [3110-score-of-a-string](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3110-score-of-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3330-find-the-original-typed-string-i) |
 ## Stack
 |  |

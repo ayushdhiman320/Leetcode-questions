@@ -18,6 +18,7 @@
 | [1672-richest-customer-wealth](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/1816-truncate-sentence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
@@ -157,12 +158,14 @@
 | [0258-add-digits](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0415-add-strings) |
 | [2810-faulty-keyboard](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/2810-faulty-keyboard) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/0461-hamming-distance) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ayushdhiman320/Leetcode-questions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
